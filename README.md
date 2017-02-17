@@ -1,0 +1,1 @@
+# extract-text-issue-366-example
